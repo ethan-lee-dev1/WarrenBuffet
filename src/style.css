@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.capital {
+    font-size:xx-large;
+    font-weight: 800;
+}
+
+.smaller-header {
+    font-size: small;
+}
+
+.smaller-li {
+    font-size: x-small;
+}
+
+ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+  gap: 20px;
+}
+
+  

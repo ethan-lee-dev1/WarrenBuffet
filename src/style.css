@@ -21,7 +21,23 @@ ul {
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
-  gap: 20px;
 }
 
-  
+li {
+    margin: 24px;
+}
+
+footer {
+    text-align: center;
+    font-size: x-small;
+}
+
+.footer-small {
+    font-size: small;
+    text-align: left;
+}
+
+
+#id {
+  font:bold;
+}

@@ -15,6 +15,7 @@ header {
 
 .smaller-li {
     font-size: x-small;
+    margin-top: 6px;
 }
 
 ul {
